@@ -5,7 +5,7 @@
 <h1 align="center">About Me❓</h1>
 <p align="center">
 
-🏫 I'm an undergraduate student in [Gadjah Mada University](https://ugm.ac.id) majoring in [Geophysics](https://geofisika.ugm.ac.id) ⚒
+🏫 I'm an undergraduate student at [Gadjah Mada University](https://ugm.ac.id) majoring in [Geophysics](https://geofisika.ugm.ac.id) ⚒
 
 🏡 I'm from Semarang City, Central Java, Indonesia
 
